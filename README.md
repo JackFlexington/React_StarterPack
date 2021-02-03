@@ -1,6 +1,6 @@
 # React_StarterPack
 
-create-react-app <APPNAME>
+create-react-app *APPNAME*
 
 ## node_modules
 React Native library code

@@ -1,5 +1,4 @@
 # React_StarterPack
-
 create-react-app *APPNAME*
 
 ## node_modules

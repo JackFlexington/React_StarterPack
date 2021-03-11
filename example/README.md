@@ -1,7 +1,7 @@
 # React UI
 
 ## Video
-![GIF react app](https://github.com/JackFlexington/python_project_showcase/blob/master/react_ui/react.gif)
+![GIF react app](https://github.com/JackFlexington/React_StarterPack/blob/main/example/react.gif)
 
 ## How it works
 * Using npm, installed library of pre-defined components. 

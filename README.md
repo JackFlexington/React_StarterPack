@@ -8,5 +8,5 @@ Front-facing code
 ## src
 Javascript, CSS, and general logic code here
 
-## Example
+## Example(s)
 * [Weekly Payroll Table](https://github.com/JackFlexington/python_project_showcase/tree/master/react_ui)

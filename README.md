@@ -9,4 +9,4 @@ Front-facing code
 Javascript, CSS, and general logic code here
 
 ## Example(s)
-* [Weekly Payroll Table](https://github.com/JackFlexington/python_project_showcase/tree/master/react_ui)
+* [Weekly Payroll Table](https://github.com/JackFlexington/React_StarterPack/tree/main/example)
